@@ -1,7 +1,7 @@
 # powefo's Twitch Bot
 Twitch bot for [powefo](https://www.twitch.tv/powefo)'s chat.
 
-Currently only adds points to Stream Elements' points leaderboard for a user every x seconds.
+Currently only adds points to Stream Elements' points leaderboard for a user when they chat every x seconds.
 
 ## Getting Started
 
@@ -52,7 +52,7 @@ And go to the `config` folder and edit the `default.json` file (remove the angle
 - `<BOT'S OAUTH TOKEN ID>` - [Use this to generate an OAuth token for your bot](https://twitchapps.com/tmi/)
 - `<TWITCH DEV CLIENT ID>` - Go to https://dev.twitch.tv/ to register this application and gain the client id
 - `<TWITCH DEV CLIENT SECRET>` - Go to https://dev.twitch.tv/ to register this application and gain the client secret
-- `<STREAM ELEMENTS TOKEN>` - 
+- `<STREAM ELEMENTS TOKEN>` - Your stream elements JWT token (note: token may expire after a while)
 - `<MAX POINTS GIVEN PER REQUEST>` - The max points that is granted to a user when they qualify
 - `<TIME IN BETWEEN MESSAGES>` - The time between messages before a user qualifies again
 
