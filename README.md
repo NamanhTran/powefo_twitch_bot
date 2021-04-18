@@ -30,7 +30,7 @@ Install the dependencies needed for this application
 And go to the `config` folder and edit the `default.json` file (remove the angle brackets when you add the value)
 
     {
-        "channelName": <THE CHANNEL NAME YOU WANT TO USE THIS BOT ON>,
+        "channelName": "<THE CHANNEL NAME YOU WANT TO USE THIS BOT ON>",
 
         "bot": {
             "username": "<BOT'S USERNAME>",
