@@ -33,21 +33,21 @@ And go to the `config` folder and edit the `default.json` file (remove the angle
         "channelName": <THE CHANNEL NAME YOU WANT TO USE THIS BOT ON>,
 
         "bot": {
-            "username": <BOT'S USERNAME>,
-            "token": <BOT'S OAUTH TOKEN ID>
+            "username": "<BOT'S USERNAME>",
+            "token": "<BOT'S OAUTH TOKEN ID>"
         },
 
         "twitch": {
-            "clientId": <TWITCH DEV CLIENT ID>,
-            "clientSecret": <TWITCH DEV CLIENT SECRET>
+            "clientId": "<TWITCH DEV CLIENT ID>",
+            "clientSecret": "<TWITCH DEV CLIENT SECRET>"
         },
 
         "streamElements": {
-            "token": <STREAM ELEMENTS TOKEN>
+            "token": "<STREAM ELEMENTS TOKEN>"
         },
 
-        "maxPoints": <MAX POINTS GIVEN PER REQUEST>,
-        "minSec": <TIME IN BETWEEN MESSAGES>
+        "maxPoints": "<MAX POINTS GIVEN PER REQUEST>",
+        "minSec": "<TIME IN BETWEEN MESSAGES>"
     }
 
 - `<BOT'S USERNAME>` - is the username of the twitch account that is being used for this program
