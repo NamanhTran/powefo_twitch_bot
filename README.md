@@ -17,13 +17,13 @@ Requirements for the software and other tools to build, test and push
 
 ### Installing
 
-Follow these steps before running this application
+Follow these steps before running this application:
 
 cd into the project folder
 
     cd <PATH TO PROJECT FOLDER>
 
-First install the dependencies needed for this application
+Install the dependencies needed for this application
 
     npm install
 
@@ -60,8 +60,7 @@ And go to the `config` folder and edit the `default.json` file (remove the angle
 
 ## Authors
 
-  - **Namanh Tran** - *Creator* -
-    [Namanh Tran](https://github.com/NamanhTran)
+  - **Namanh Tran** - *Creator* - [Namanh Tran](https://github.com/NamanhTran)
 
 ## License
 
