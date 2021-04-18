@@ -17,9 +17,9 @@ Requirements for the software and other tools to build, test and push
 
 ### Installing
 
-Follow these steps before running the twitch bot
+Follow these steps before running this application
 
-cd into the project folder'
+cd into the project folder
 
     cd <PATH TO PROJECT FOLDER>
 
