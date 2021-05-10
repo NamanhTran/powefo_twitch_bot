@@ -35,7 +35,8 @@ class TwitchChatBot {
             },
             channels: [
               this.channelName
-            ]
+            ],
+            reconnect: true
         };
 
         // Create a client with our options
